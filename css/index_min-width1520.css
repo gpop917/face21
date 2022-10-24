@@ -40,20 +40,20 @@
     .text-1onebox {width: 213px; height: 53px; background-color: #000; border-radius: 30px; margin: 0 auto; }
     .text-1onebox > P {color: #bfbfbf; font-size: 31px; margin: 0 auto; width: 109px; line-height: 55px; font-family: monospace;}
     /* 1칠판 */
-    .class1box {width: 100%; height: 26%; margin-top: 270px;}
+    .class1box {width: 100%; height: 26%; margin-top: 345px;}
     .class1centerbox {width: 52%; height: 566px; margin: 0 auto;}
-    .class1-blackbordbox {width: 98%; height: 675px; background-color: #fff; border: 15px solid #ff5ace; margin-top: 20px;}
+    .class1-blackbordbox {width: 98%; height: 595px; background-color: #fff; border: 15px solid #ff5ace; margin-top: 20px;}
     /* 안에 글씨 */
-    .class1-textbox-centerbox {width: 100%; height: 100%; margin: 0 auto;}
+    .class1-textbox-centerbox {width: 100%; height: 72%; margin: 0 auto;}
     .class1p {font-size: 20px; }
-    .class1-textbox {width: 88%; height: 100%; background: url(../img/class1box2-2.png) no-repeat; margin-top: 81px; transform:scale(1.1); margin-left: 5%;}
-    .class1-btnbox { height: 250px; float: left; margin-left: 610px; margin-top: 277px;}
-    .go-btn { width: 60px; height: 60px; background-color: #ff5ace; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 30px; transition: 0.4s;}
+    .class1-textbox {width: 88%; height: 100%; background: url(../img/class1box2-2.png) no-repeat; margin-top: 60px; transform:scale(1.1); margin-left: 5%;}
+    .class1-btnbox { height: 250px; float: left; margin-left: 430px; margin-top: 188px;}
+    .go-btn { width: 50px; height: 50px; background-color: #ff5ace; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 10px; transition: 0.4s;}
     .go-btn:hover {background-color: #fff; border: 1px solid #ff5ace;  border-radius: 30px;}
-    .go-btn > a { color: #fff; font-size: 31px; text-align: center; }
+    .go-btn > a { color: #fff; font-size: 26px; text-align: center; }
     .go-btn > a:hover {color: #ff5ace;}
     /* phone2 */
-    .phone2 {width: 18%; float: right; margin-right: 400px; margin-top: -530px; }
+    .phone2 {width: 20%; float: right; margin-right: 400px; margin-top: -555px; }
     /* left2cake */
     .cakebox-an {width: 330px; height: 105px; margin-left: 17px; animation-duration: 2s; animation-name: ring; animation-iteration-count: infinite;  }
     .cakebox2 {width: 18%; height: 70px; float: right; background: url(../img/cake.png) no-repeat;}
