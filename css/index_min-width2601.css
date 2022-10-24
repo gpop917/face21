@@ -59,18 +59,18 @@
     .cakebox3 {width: 21%; height: 105px; margin-left: 73px; margin-top: 62px; background: url(../img/Watermelon1-2.png) no-repeat;}
     @keyframes ring {
       0% { transform: rotate(0); }
-      13% { transform: rotate(0.7deg); }
-      15% { transform: rotate(-0.7deg); }
-      17% { transform: rotate(0.9deg); }
-      19% { transform: rotate(-0.9deg); }
-      21% { transform: rotate(0.6deg); } 
-      23% { transform: rotate(-0.6deg); }
-      25% { transform: rotate(0.8deg); }
-      27% { transform: rotate(-0.8deg); }
-      29% { transform: rotate(0.5deg); } 
-      31% { transform: rotate(-0.5deg); }
-      33% { transform: rotate(0.5deg); }
-      35% { transform: rotate(-0.5deg); }
+      13% { transform: rotate(0.8deg); }
+      15% { transform: rotate(-0.8deg); }
+      17% { transform: rotate(1deg); }
+      19% { transform: rotate(-1deg); }
+      21% { transform: rotate(1.5deg); } 
+      23% { transform: rotate(-1.5deg); }
+      25% { transform: rotate(2deg); }
+      27% { transform: rotate(-2deg); }
+      29% { transform: rotate(2.5deg); } 
+      31% { transform: rotate(-2.5deg); }
+      33% { transform: rotate(3deg); }
+      35% { transform: rotate(-3deg); }
 
   
       43% { transform: rotate(0); }
