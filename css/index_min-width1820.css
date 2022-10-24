@@ -102,7 +102,7 @@
     .class3-blackbordbox {width: 100%; height: 768px; background-color: #fff; border: 15px solid #f7b20d; }
     .class3-btnbox {width: 80px; height: 430px; float: left; margin-left: 280px; margin-top: 214px;}
     /* 안에 글씨 */
-    .class3-textbox {width: 97%; height: 100%; background: url(../img/class3box1.png) no-repeat; margin: 0 auto; transform:scale(0.9)}
+    .class3-textbox {width: 97%; height: 100%; background: url(../img/class3box1.png) no-repeat; margin: 0 auto; }
     .class3-btnbox > .go-btn {width: 60px; height: 60px; background-color: #f7b20d; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 18px;}
     .class3-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #f7b20d;  border-radius: 30px;}
     .class3-btnbox > .go-btn > a { color: #fff; font-size: 30px; text-align: center; }
