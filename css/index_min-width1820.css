@@ -107,7 +107,7 @@
     .class3-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #f7b20d;  border-radius: 30px;}
     .class3-btnbox > .go-btn > a { color: #fff; font-size: 30px; text-align: center; }
     .class3-btnbox > .go-btn > a:hover {color: #f7b20d;}
-    .phone4box {float: right; margin: 0 auto; width: 330px; height: 105px; margin-left: 17px; animation-duration: 9s; animation-name: ring; animation-iteration-count: infinite;}
+    .phone4box {float: right; margin: 0 auto; width: 330px; height: 105px; margin-left: 17px; animation-duration: 6s; animation-name: ring; animation-iteration-count: infinite;}
     .class3-blackbordbox > img.phone4- {width: 40%; float: right; margin-top: -530px; margin-right: -139px;}
     img.heart2 {float: right; margin-right: 100px; margin-top: -145px; width: 100%;}
     .class3centerbox > img.exam6- {margin-top: -30px; margin-left: -462px; width: 420px;}
