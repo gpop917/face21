@@ -56,9 +56,9 @@
     .phone2 {width: 18%; float: right; margin-right: 400px; margin-top: -530px; }
     /* left2cake */
     .cakebox-an {width: 330px; height: 105px; margin-left: 17px; animation-duration: 2s; animation-name: ring; animation-iteration-count: infinite;  }
-    .cakebox2 {width: 18%; height: 70px; float: right; background: url(../img/cake.png) no-repeat;}
+    .cakebox2 {width: 20%; height: 70px; float: right; background: url(../img/cake.png) no-repeat;}
     .cakebox-an3 {width: 330px; height: 85px; margin-left: 17px; animation-duration: 2s; animation-name: ring; animation-iteration-count: infinite;  }
-    .cakebox3 {width: 18%; height: 240px; margin-left: 60px; background: url(../img/Watermelon.png) no-repeat;}
+    .cakebox3 {width: 20%; height: 240px; margin-left: 60px; background: url(../img/Watermelon.png) no-repeat;}
     @keyframes ring {
       0% { transform: rotate(0); }
       13% { transform: rotate(0.8deg); }
@@ -69,10 +69,10 @@
       23% { transform: rotate(-1.5deg); }
       25% { transform: rotate(2deg); }
       27% { transform: rotate(-2deg); }
-      29% { transform: rotate(2.5deg); } 
-      31% { transform: rotate(-2.5deg); }
-      33% { transform: rotate(3deg); }
-      35% { transform: rotate(-3deg); }
+      29% { transform: rotate(2.3deg); } 
+      31% { transform: rotate(-2.3deg); }
+      33% { transform: rotate(2.5deg); }
+      35% { transform: rotate(-2.5deg); }
 
   
       43% { transform: rotate(0); }
