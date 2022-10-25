@@ -22,7 +22,7 @@
     .btn6box {width: 59%; height: 208px; display: flex; align-items: center; margin-top: 10px;}
     .btn6box > p {color: #000;}
     p.eyesbox {font-weight: bold; background-color: #fff; border-radius: 30px; width: 16%; height: 50px ; margin-right: 7px; font-family: 'S-CoreDream-3Light';}
-    .eyesbox a {font-size: 19px; color: #000; line-height: 43px; text-align: center; display: block; text-decoration: none; font-family: 'S-CoreDream-3Light';}
+    .eyesbox a {padding-top: 5px; font-size: 19px; color: #000; line-height: 43px; text-align: center; display: block; text-decoration: none; font-family: 'S-CoreDream-3Light';}
     .eyesbox a:hover {background-color: #ff5ace; border-radius: 30px; color: #fff; height: 50px ; transition: 0.3s; cursor: pointer; font-family: 'S-CoreDream-3Light';}
         
         

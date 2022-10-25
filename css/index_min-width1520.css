@@ -22,7 +22,7 @@
     .btn6box {width: 59%; height: 208px; display: flex; align-items: center; margin-top: 10px;}
     .btn6box > p {color: #000;}
     p.eyesbox {background-color: #fff; border-radius: 30px; width: 16%; height: 50px ; margin-right: 7px; font-family: 'S-CoreDream-3Light'; font-weight: bold;}
-    .eyesbox a {font-size: 19px; color: #000; line-height: 43px; text-align: center; display: block; text-decoration: none; font-family: 'S-CoreDream-3Light';;}
+    .eyesbox a {padding-top: 5px; font-size: 19px; color: #000; line-height: 43px; text-align: center; display: block; text-decoration: none; font-family: 'S-CoreDream-3Light';;}
     .eyesbox a:hover {background-color: #ff5ace; border-radius: 30px; color: #fff; height: 50px ; transition: 0.3s; cursor: pointer; font-family: 'S-CoreDream-3Light';}
         
         
@@ -116,7 +116,7 @@
     .class4box {width: 100%; height: 800px;}
     .class4centerbox {width: 1450px; height: 880px; margin: 0 auto;}
     .class4-blackbordbox {width: 1440px; height: 890px; background: url(../img/class4box1-1.png) center/cover no-repeat; margin-left: 35px; transform: scale(0.88);}
-    .class4-btnbox {width: 80px; height: 510px; float: left; margin-left: 802px; margin-top: 395px;}
+    .class4-btnbox {width: 80px; height: 510px; float: left; margin-left: 810px; margin-top: 228px;}
     .class4-btnbox > .go-btn {width: 60px; height: 60px; background-color: #8dcb07; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 28px;}
     .class4-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #8dcb07;  border-radius: 30px;}
     .class4-btnbox > .go-btn > a { color: #fff; font-size: 30px; text-align: center; }
@@ -146,7 +146,7 @@
     .love-centerbox {width: 79%; height: 805px; margin: 0 auto;}
     .love1box {width: 100%; height: 850px; margin-left: 17%; background: url(../img/love2.png) no-repeat; transform:scale(1)}
     .love3box {width: 107%; height: 850px;  background: url(../img/love3-1.png) no-repeat; margin-left: -147px;}
-    .right-applebox {width: 37%; height: 470px; background: url(../img/apple1-2.png) no-repeat; float: right; margin-top: 140px;}
+    .right-applebox {width: 32%; height: 470px; background: url(../img/apple1-2.png) no-repeat; float: right; margin-top: 140px;}
     .lovebox > img {float: right;}
     .class6box {width: 100%; height: 390px; margin-top: 390px; }
     .class6centerbox {width: 1450px; height: 490px; margin: 0 auto;}
