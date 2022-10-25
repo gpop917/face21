@@ -18,7 +18,7 @@
     .btn-centerbox {width: 100%; margin-left: 2%; display: flex; justify-content: center;}
     .btn6box {width: 59%; height: 221px; display: flex; align-items: center; margin-top: 10px;}
     .btn6box > p {color: #000;}
-    p.eyesbox {font-weight: bold; background-color: #fff; border-radius: 30px; width: 16%; height: 50px ; margin-right: 7px; font-family: 'Noto Sans KR', sans-serif;}
+    p.eyesbox { background-color: #fff; border-radius: 30px; width: 16%; height: 50px ; margin-right: 7px; font-family: 'Noto Sans KR', sans-serif;}
     .eyesbox a {font-size: 19px; color: #000; line-height: 43px; text-align: center; display: block; text-decoration: none; font-family: 'Noto Sans KR', sans-serif;}
     .eyesbox a:hover {background-color: #ff5ace; border-radius: 30px; color: #fff; height: 50px ; transition: 0.3s; cursor: pointer; font-family: 'Noto Sans KR', sans-serif;}
         
@@ -82,7 +82,7 @@
     #page2 {width: 100%; height: 898px; background: url(../img/2page-background.png);}
     .class2box {width: 100%; height: 800px;}
     .class2centerbox {width: 1667px; height: 490px; margin: 0 auto;}
-    .class2-blackbordbox {width: 1340px; height: 610px; background: url(../img/class2box1.png) center/cover no-repeat; margin-left: 35px;}
+    .class2-blackbordbox {width: 1340px; height: 610px; background: url(../img/class2box1-1.png) center/cover no-repeat; margin-left: 35px;}
     .class2-btnbox {width: 80px; height: 200px; float: left; margin-left: 804px; margin-top: 398px;}
     .class2-btnbox > .go-btn {width: 60px; height: 60px; background-color: #b75efc; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 40px;}
     .class2-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #b75efc;  border-radius: 30px;}
@@ -111,7 +111,7 @@
     #page4 {width: 100%; height: 1080px; background: url(../img/4page-background2.png);}
     .class4box {width: 100%; height: 800px;}
     .class4centerbox {width: 53%; height: 790px; margin: 0 auto;}
-    .class4-blackbordbox {width: 1220px; height: 890px; background: url(../img/class4box.png) center/cover no-repeat; margin-left: 35px;}
+    .class4-blackbordbox {width: 1220px; height: 890px; background: url(../img/class4box1-1.png) center/cover no-repeat; margin-left: 35px;}
     .class4-btnbox {width: 80px; height: 510px; float: left; margin-left: 802px; margin-top: 395px;}
     .class4-btnbox > .go-btn {width: 60px; height: 60px; background-color: #8dcb07; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 28px;}
     .class4-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #8dcb07;  border-radius: 30px;}
@@ -146,7 +146,7 @@
     .lovebox > img {float: right;}
     .class6box {width: 100%; height: 390px; margin-top: 390px; }
     .class6centerbox {width: 42%; height: 490px; margin: 0 auto;}
-    .class6-blackbordbox {width: 1470px; height: 843px; background: url(../img/class6-1box.png) no-repeat; transform:scale(1) }
+    .class6-blackbordbox {width: 1470px; height: 843px; background: url(../img/class6box1-1.png) no-repeat; transform:scale(1) }
     .class6-btnbox {width: 80px; height: 450px; float: left; margin-left: 833px; margin-top: 403px;}
     .class6-btnbox > .go-btn {width: 60px; height: 60px; background-color: #281762; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 30px;}
     .class6-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #281762;  border-radius: 30px;}
