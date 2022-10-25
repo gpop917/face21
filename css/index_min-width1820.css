@@ -163,6 +163,6 @@
     .p2box {padding-top: 25px; width: 60%; margin: 0 auto; display: flex; justify-content: space-around;}
     .footer-p1 {color: #fff; font-size: 30px;}
     .footer-p2 {color: #fff; font-size: 30px;}
-    .minibox {margin: 0 auto; width: 58%; padding-top: 10px; }
-    .mini {color: #fff; font-size: 17px; margin-top: 30px;}
+    .minibox {margin: 0 auto; width: 70%; padding-top: 10px; opacity: 70%;}
+    .mini {color: #fff; font-size: 16px; margin-top: 30px;}
   }

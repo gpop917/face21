@@ -146,7 +146,7 @@
     .love-centerbox {width: 79%; height: 805px; margin: 0 auto;}
     .love1box {width: 100%; height: 850px; margin-left: 17%; background: url(../img/love2.png) no-repeat; transform:scale(1)}
     .love3box {width: 107%; height: 850px;  background: url(../img/love3-1.png) no-repeat; margin-left: -147px;}
-    .right-applebox {width: 37%; height: 790px; background: url(../img/apple.png); float: right; margin-top: -60px;}
+    .right-applebox {width: 37%; height: 470px; background: url(../img/apple1-2.png) no-repeat; float: right; margin-top: 140px;}
     .lovebox > img {float: right;}
     .class6box {width: 100%; height: 390px; margin-top: 390px; }
     .class6centerbox {width: 1450px; height: 490px; margin: 0 auto;}
@@ -156,12 +156,12 @@
     .class6-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #281762;  border-radius: 30px;}
     .class6-btnbox > .go-btn > a { color: #fff; font-size: 30px; text-align: center; }
     .class6-btnbox > .go-btn > a:hover {color: #281762;}
-    .right-mombox {width: 38%; height: 580px; background: url(../img/mom1-1.png) no-repeat; float: right; margin-top: -20px;}
+    .right-mombox {width: 37%; height: 580px; background: url(../img/mom1-1.png) no-repeat; float: right; margin-top: -20px;}
 
     footer {width: 100%; height: 128px; background-color: #281762;}
     .p2box {padding-top: 25px; width: 60%; margin: 0 auto; display: flex; justify-content: space-around;}
     .footer-p1 {color: #fff; font-size: 30px;}
     .footer-p2 {color: #fff; font-size: 30px;}
-    .minibox {margin: 0 auto; width: 58%; padding-top: 10px; }
-    .mini {color: #fff; font-size: 17px; margin-top: 30px;}
+    .minibox {margin: 0 auto; width: 77%; padding-top: 10px; }
+    .mini {color: #fff; font-size: 15px; margin-top: 30px; opacity: 70%;}
   }

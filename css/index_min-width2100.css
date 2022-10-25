@@ -142,7 +142,18 @@
     .love-centerbox {width: 62%; height: 805px; margin: 0 auto;}
     .love1box {width: 100%; height: 850px; margin-left: 260px; background: url(../img/love2.png) no-repeat; transform:scale(1)}
     .love3box {width: 100%; height: 850px;  background: url(../img/love3-1.png) no-repeat; margin-left: -147px;}
-    .right-applebox {width: 35%; height: 790px; background: url(../img/apple.png); float: right; margin-top: -62px;}
+    .right-applebox {width: 35%; height: 790px; background: url(../img/apple.png); float: right; margin-top: -62px; animation: slide 2s ease-out;}
+    @keyframes slide {
+      from{
+           right: 500px;
+      }
+      to{
+          right: -800px;
+      }
+    }
+
+
+
     .lovebox > img {float: right;}
     .class6box {width: 100%; height: 390px; margin-top: 390px; }
     .class6centerbox {width: 1450px; height: 490px; margin: 0 auto;}
@@ -158,6 +169,6 @@
     .p2box {padding-top: 25px; width: 60%; margin: 0 auto; display: flex; justify-content: space-around;}
     .footer-p1 {color: #fff; font-size: 30px;}
     .footer-p2 {color: #fff; font-size: 30px;}
-    .minibox {margin: 0 auto; width: 58%; padding-top: 10px; }
-    .mini {color: #fff; font-size: 17px; margin-top: 30px;}
+    .minibox {margin: 0 auto; width: 55%; padding-top: 10px; opacity: 70%; }
+    .mini {color: #fff; font-size: 15px; margin-top: 30px;}
   }
