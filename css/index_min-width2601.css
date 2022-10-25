@@ -104,8 +104,8 @@
     .class3-btnbox > .go-btn > a:hover {color: #f7b20d;}
     .phone4box {width: 0.01%; height: 180px; margin: 0 auto; }
     .class3-blackbordbox > img.phone4- {width: 40%; float: right; margin-top: -530px; margin-right: -130px;}
-    .phone4box {float: right; margin: 0 auto; width: 385px; height: 105px; margin-left: 17px; animation-duration: 6s; animation-name: ring; animation-iteration-count: infinite;}
-    img.heart2 {float: right; margin-right: -730px; margin-top: -82px; width: 100%;}
+    .phone4box {float: right; margin: 0 auto; width: 100%; height: 105px; margin-left: 17px; animation-duration: 6s; animation-name: ring; animation-iteration-count: infinite;}
+    img.heart2 {float: right; margin-right: 328px; margin-top: -210px; width: 18%;}
     .class3centerbox > img.exam6- {margin-top: -70px; margin-left: -540px; width: 36%;}
 
     #page4 {width: 100%; height: 1080px; background: url(../img/4page-background2.png);}
