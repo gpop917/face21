@@ -117,7 +117,7 @@
     .class4box {width: 100%; height: 800px;}
     .class4centerbox {width: 1450px; height: 893px; margin: 0 auto;}
     .class4-blackbordbox {width: 1440px; height: 890px; background: url(../img/class4box1-1.png) center/cover no-repeat; margin-left: 35px;}
-    .class4-btnbox {width: 80px; height: 510px; float: left; margin-left: 802px; margin-top: 395px;}
+    .class4-btnbox {width: 70px; height: 506px; float: left; margin-left: 802px; margin-top: 372px;}
     .class4-btnbox > .go-btn {width: 60px; height: 60px; background-color: #8dcb07; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 28px;}
     .class4-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #8dcb07;  border-radius: 30px;}
     .class4-btnbox > .go-btn > a { color: #fff; font-size: 30px; text-align: center; }
