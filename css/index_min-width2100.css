@@ -7,7 +7,7 @@
     .kimimg { width: 69%; height: 78%; background: url(../img/top2img.png) center/cover no-repeat; margin: 0 auto; }
     /* 신청하기 버튼 */
     .kigimgbox {width: 19%; height: 12%; float: right; margin-top: 450px; margin-right: -58px; }
-    .kigimgbox  > a > img {width: 80%;animation: 1s infinite alternate floating;}
+    .kigimgbox  > a > img {width: 80%;animation: 2s infinite alternate floating;}
     /* float shadow animation */
     @keyframes floating{
       0%{transform: translateY(0px);}
