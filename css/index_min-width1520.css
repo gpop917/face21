@@ -93,7 +93,7 @@
     .class2-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #b75efc;  border-radius: 30px;}
     .class2-btnbox > .go-btn > a { color: #fff; font-size: 30px; text-align: center; }
     .class2-btnbox > .go-btn > a:hover {color: #b75efc;}
-    .class2box > img.me2 {width: 35%; margin-right: 10px; margin-top: -386px; float: right;}
+    .class2box > img.me2 {width: 35%; margin-right: 10px; margin-top: -386px; float: right; animation-duration: 9s; animation-name: ring; animation-iteration-count: infinite;}
     .class2box > img.page3-phone {margin-top: -223px; width: 24%; margin-left: 38px;}
 
     #page3 {width: 100%; height: 860px; background: url(../img/3page-background.png);}
@@ -110,53 +110,53 @@
     .phone4box {float: right; margin: 0 auto; width: 328px; height: 105px; margin-left: 17px; animation-duration: 6s; animation-name: ring; animation-iteration-count: infinite;}
     .class3-blackbordbox > img.phone4- {width: 40%; float: right; margin-top: -505px; margin-right: -107px;}
     img.heart2 {float: right; margin-top: -145px; width: 100%;}
-    .class3centerbox > img.exam6- {margin-top: -30px; margin-left: -462px; width: 420px;}
+    .class3centerbox > img.exam6- {margin-top: -30px; margin-left: -300px; width: 380px;}
 
     #page4 {width: 100%; height: 1080px; background: url(../img/4page-background2.png);}
     .class4box {width: 100%; height: 800px;}
-    .class4centerbox {width: 1450px; height: 490px; margin: 0 auto;}
-    .class4-blackbordbox {width: 1440px; height: 890px; background: url(../img/class4box.png) center/cover no-repeat; margin-left: 35px;}
+    .class4centerbox {width: 1450px; height: 880px; margin: 0 auto;}
+    .class4-blackbordbox {width: 1440px; height: 890px; background: url(../img/class4box.png) center/cover no-repeat; margin-left: 35px; transform: scale(0.88);}
     .class4-btnbox {width: 80px; height: 510px; float: left; margin-left: 802px; margin-top: 395px;}
     .class4-btnbox > .go-btn {width: 60px; height: 60px; background-color: #8dcb07; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 28px;}
     .class4-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #8dcb07;  border-radius: 30px;}
     .class4-btnbox > .go-btn > a { color: #fff; font-size: 30px; text-align: center; }
     .class4-btnbox > .go-btn > a:hover {color: #8dcb07;}
-    .mebox3 {width: 20%; height: 30px;}
-    .mebox3 > img.me3- {width: 142%; margin-top: -265px; }
-    img.phone5- {width: 22%; margin-left: 160px; margin-top: -60px;}
+    .mebox3 {width: 35%; height: 130px; animation-duration: 9s; animation-name: ring; animation-iteration-count: infinite;}
+    .mebox3 > img.me3- {width: 100%; margin-top: -260px; }
+    img.phone5- {width: 25%; margin-right: 160px; margin-top: -450px; float: right;}
 
 
     #page5 {width: 100%; height: 905px; background: url(../img/5page-background.png);}
-    .class5centerbox {width: 53%; height: 566px; margin: 0 auto; padding-top: 130px;}
+    .class5centerbox {width: 60%; height: 566px; margin: 0 auto; padding-top: 130px;}
     .class5-blackbordbox {width: 100%; height: 675px; background-color: #fff; border: 15px solid #00d0d8; }
     /* 좌측 하트 물풍선 */
     .class5-blackbordbox > .blueheart1 {width: 20%; height: 31%; float: left; margin-left: -125px; margin-top: -109px;}
     .class5-btnbox {width: 80px; height: 250px; float: left; margin-left: 560px; margin-top: 258px;}
     /* 안에 글씨 */
-    .class5-textbox {width: 101%; height: 93%; background: url(../img/class5box1.png) no-repeat; margin: 0 auto; transform:scale(0.9)}
+    .class5-textbox {width: 101%; height: 93%; background: url(../img/class5box1.png) no-repeat; margin: 0 auto; transform:scale(0.89)}
     .class5-btnbox > .go-btn {width: 60px; height: 60px; background-color: #00d0d8; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 30px;}
     .class5-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #00d0d8;  border-radius: 30px;}
     .class5-btnbox > .go-btn > a { color: #fff; font-size: 30px; text-align: center; }
     .class5-btnbox > .go-btn > a:hover {color: #00d0d8;}
-    .class5-blackbordbox > img {width: 38%; margin-right: -52px; margin-top: -410px; float: right;}
+    .class5-blackbordbox > img {width: 40%; margin-right: -52px; margin-top: -410px; float: right;}
 
 
     #page6 {width: 100%; height: 1840px; background: url(../img/6page.png);}
     .lovebox {width: 100%; height: 500px; padding-top: 50px;}
-    .love-centerbox {width: 70%; height: 805px; margin: 0 auto;}
+    .love-centerbox {width: 79%; height: 805px; margin: 0 auto;}
     .love1box {width: 100%; height: 850px; margin-left: 17%; background: url(../img/love2.png) no-repeat; transform:scale(1)}
-    .love3box {width: 100%; height: 850px;  background: url(../img/love3-1.png) no-repeat; margin-left: -147px;}
+    .love3box {width: 107%; height: 850px;  background: url(../img/love3-1.png) no-repeat; margin-left: -147px;}
     .right-applebox {width: 37%; height: 790px; background: url(../img/apple.png); float: right; margin-top: -60px;}
     .lovebox > img {float: right;}
     .class6box {width: 100%; height: 390px; margin-top: 390px; }
     .class6centerbox {width: 1450px; height: 490px; margin: 0 auto;}
-    .class6-blackbordbox {width: 1470px; height: 843px; background: url(../img/class6box.png); transform:scale(1) }
+    .class6-blackbordbox {width: 1470px; height: 843px; background: url(../img/class6box.png); transform:scale(0.98) }
     .class6-btnbox {width: 80px; height: 450px; float: left; margin-left: 833px; margin-top: 403px;}
     .class6-btnbox > .go-btn {width: 60px; height: 60px; background-color: #281762; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 30px;}
     .class6-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #281762;  border-radius: 30px;}
     .class6-btnbox > .go-btn > a { color: #fff; font-size: 30px; text-align: center; }
     .class6-btnbox > .go-btn > a:hover {color: #281762;}
-    .right-mombox {width: 34%; height: 680px; background: url(../img/mom1-1.png) no-repeat; float: right; margin-top: -120px;}
+    .right-mombox {width: 38%; height: 580px; background: url(../img/mom1-1.png) no-repeat; float: right; margin-top: -20px;}
 
     footer {width: 100%; height: 128px; background-color: #281762;}
     .p2box {padding-top: 25px; width: 60%; margin: 0 auto; display: flex; justify-content: space-around;}
