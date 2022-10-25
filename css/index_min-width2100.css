@@ -30,7 +30,7 @@
     .centerbox {width: 58%; margin: 0 auto; }
     .centerbox >img {margin-top: -85px; width: 94%;}
     /* 나1 */
-    .mebox {width: 29%; height: 450px; animation-duration: 5s; animation-name: ring; animation-iteration-count: infinite; margin-top: -40px;}
+    .mebox {width: 28%; height: 50px; animation-duration: 9s; animation-name: ring; animation-iteration-count: infinite; margin-top: -40px;}
     .mebox > img {margin-top: -140px; margin-left:105px; width: 97%; }
     /* 원1교시박스 */
     .onecenterbox {width: 100%; height: 53px; margin-top: -33px;}
@@ -58,18 +58,19 @@
     .cakebox3 {width: 36%; height: 117px; margin-left: 73px; margin-top: 62px; background: url(../img/Watermelon1-3.png) no-repeat;}
     @keyframes ring {
       0% { transform: rotate(0); }
-      13% { transform: rotate(0.3deg); }
-      15% { transform: rotate(-0.3deg); }
-      17% { transform: rotate(0.5deg); }
-      19% { transform: rotate(-0.5deg); }
-      21% { transform: rotate(0.5deg); } 
-      23% { transform: rotate(-0.5deg); }
-      25% { transform: rotate(0.8deg); }
-      27% { transform: rotate(-0.8deg); }
-      29% { transform: rotate(0.9deg); } 
-      31% { transform: rotate(-0.9deg); }
-      33% { transform: rotate(1.2deg); }
-      35% { transform: rotate(-0.9deg); }
+      13% { transform: rotate(0.5deg); }
+      15% { transform: rotate(-0.5deg); }
+      17% { transform: rotate(0.7deg); }
+      19% { transform: rotate(-0.7deg); }
+      21% { transform: rotate(0.3deg); } 
+      23% { transform: rotate(-0.3deg); }
+      25% { transform: rotate(0.09deg); }
+      27% { transform: rotate(-0.09deg); }
+      29% { transform: rotate(0.05deg); } 
+      31% { transform: rotate(-0.05deg); }
+      33% { transform: rotate(0.4deg); }
+      35% { transform: rotate(-0.4deg); }
+
 
   
       43% { transform: rotate(0.5deg); }

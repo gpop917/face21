@@ -30,7 +30,7 @@
     .centerbox {width: 58%; margin: 0 auto; }
     .centerbox >img {margin-top: -45px; width: 94%;}
     /* 나1 */
-    .mebox {width: 28%; height: 50px; }
+    .mebox {width: 28%; height: 50px;  animation-duration: 9s; animation-name: ring; animation-iteration-count: infinite; margin-top: -40px;}
     .mebox > img {margin-top: -240px; margin-left:190px; width: 86%; }
     /* 원1교시박스 */
     .onecenterbox {width: 100%; height: 53px; margin-top: -33px;}
@@ -63,14 +63,14 @@
       15% { transform: rotate(-0.5deg); }
       17% { transform: rotate(0.7deg); }
       19% { transform: rotate(-0.7deg); }
-      21% { transform: rotate(0.9deg); } 
-      23% { transform: rotate(-0.9deg); }
-      25% { transform: rotate(1deg); }
-      27% { transform: rotate(-1deg); }
-      29% { transform: rotate(1.2deg); } 
-      31% { transform: rotate(-1.2deg); }
-      33% { transform: rotate(1.5deg); }
-      35% { transform: rotate(-1.5deg); }
+      21% { transform: rotate(0.3deg); } 
+      23% { transform: rotate(-0.3deg); }
+      25% { transform: rotate(0.09deg); }
+      27% { transform: rotate(-0.09deg); }
+      29% { transform: rotate(0.05deg); } 
+      31% { transform: rotate(-0.05deg); }
+      33% { transform: rotate(0.4deg); }
+      35% { transform: rotate(-0.4deg); }
 
   
       43% { transform: rotate(0); }
