@@ -94,7 +94,7 @@
     .class2-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #b75efc;  border-radius: 30px;}
     .class2-btnbox > .go-btn > a { color: #fff; font-size: 30px; text-align: center; }
     .class2-btnbox > .go-btn > a:hover {color: #b75efc;}
-    .class2box > img.me2 {width: 34%; margin-right: 10px; margin-top: -420px; float: right;}
+    .class2box > img.me2 {width: 34%; margin-right: 10px; margin-top: -420px; float: right; animation-duration: 9s; animation-name: ring; animation-iteration-count: infinite;}
     .class2box > img.page3-phone {margin-top: -223px; width: 23%; margin-left: 100px;}
 
     #page3 {width: 100%; height: 860px; background: url(../img/3page-background.png);}
@@ -115,16 +115,16 @@
 
     #page4 {width: 100%; height: 1080px; background: url(../img/4page-background2.png);}
     .class4box {width: 100%; height: 800px;}
-    .class4centerbox {width: 1450px; height: 490px; margin: 0 auto;}
+    .class4centerbox {width: 1450px; height: 893px; margin: 0 auto;}
     .class4-blackbordbox {width: 1440px; height: 890px; background: url(../img/class4box.png) center/cover no-repeat; margin-left: 35px;}
     .class4-btnbox {width: 80px; height: 510px; float: left; margin-left: 802px; margin-top: 395px;}
     .class4-btnbox > .go-btn {width: 60px; height: 60px; background-color: #8dcb07; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 28px;}
     .class4-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #8dcb07;  border-radius: 30px;}
     .class4-btnbox > .go-btn > a { color: #fff; font-size: 30px; text-align: center; }
     .class4-btnbox > .go-btn > a:hover {color: #8dcb07;}
-    .mebox3 {width: 20%; height: 30px;}
-    .mebox3 > img.me3- {width: 142%; margin-top: -265px; }
-    img.phone5- {width: 22%; margin-left: 160px; margin-top: -60px;}
+    .mebox3 {width: 22%; height: 115px; animation-duration: 9s; animation-name: ring; animation-iteration-count: infinite;}
+    .mebox3 > img.me3- {width: 142%; margin-top: -290px; }
+    img.phone5- {width: 22%; float: right; margin-right: 280px; margin-top: -490px;}
 
 
     #page5 {width: 100%; height: 905px; background: url(../img/5page-background.png);}
