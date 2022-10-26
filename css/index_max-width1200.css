@@ -4,7 +4,7 @@
   ul,li,ol {list-style: none;}
   a {text-decoration: none; text-decoration: none;}
 
-  @media (min-width:1200px) and (max-width:1519px){
+  @media (min-width:1280px) and (max-width:1519px){
     #top {width: 100%; height: 100%; background: url(../img/top1-3.png); }
     .topimgbox {width: 100%; margin: 0 auto;  }
     .kimimg { width: 86%; height: 80%; background: url(../img/top2img.png) center/cover no-repeat; margin: 0 auto; } 
@@ -33,8 +33,8 @@
     .centerbox {width: 67%; margin: 0 auto; }
     .centerbox >img {margin-top: -50px; width: 100%;}
     /* 나1 */
-    .mebox {width: 32%; height: 50px; animation-duration: 9s; animation-name: ring; animation-iteration-count: infinite; margin-top: -40px;}
-    .mebox > img {margin-top: -119px; margin-left:5px; width: 100%; }
+    .mebox {width: 31%; height: 50px; animation-duration: 9s; animation-name: ring; animation-iteration-count: infinite; margin-top: -40px;}
+    .mebox > img {margin-top: -158px; margin-left:5px; width: 100%; }
     /* 원1교시박스 */
     .onecenterbox {width: 100%; height: 53px; margin-top: -33px;}
     .text-1onebox {width: 213px; height: 53px; background-color: #000; border-radius: 30px; margin: 0 auto; }
@@ -42,11 +42,11 @@
     /* 1칠판 */
     .class1box {width: 100%; height: 26%; margin-top: 210px;}
     .class1centerbox {width: 56%; height: 375px; margin: 0 auto;}
-    .class1-blackbordbox {width: 98%; height: 595px; background-color: #fff; border: 15px solid #ff5ace; margin-top: 20px;}
+    .class1-blackbordbox {width: 98%; height: 545px; background-color: #fff; border: 15px solid #ff5ace; margin-top: 20px;}
     /* 안에 글씨 */
     .class1-textbox-centerbox {width: 100%; height: 72%; margin: 0 auto;}
     .class1p {font-size: 20px; }
-    .class1-textbox {width: 81%; height: 100%; background: url(../img/class1box2-2.png) no-repeat; margin-top: 60px; transform:scale(1.1); margin-left: 6%;}
+    .class1-textbox {width: 100%; height: 100%; background: url(../img/class1box2-2.png) no-repeat; margin-top: 30px; transform:scale(1.09); }
     .class1-btnbox { height: 250px; float: left; margin-left: 430px; margin-top: 188px;}
     .go-btn { width: 50px; height: 50px; background-color: #ff5ace; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 10px; transition: 0.4s;}
     .go-btn:hover {background-color: #fff; border: 1px solid #ff5ace;  border-radius: 30px;}
@@ -56,9 +56,9 @@
     .phone2 {width: 21%; float: right; margin-right: 334px; margin-top: -465px; }
     /* left2cake */
     .cakebox-an {width: 330px; height: 95px; margin-left: 17px; animation-duration: 2s; animation-name: ring; animation-iteration-count: infinite;  }
-    .cakebox2 {width: 47%; height:66px; float: right; background: url(../img/cake1-2.png) no-repeat; margin-top: -130px;}
-    .cakebox-an3 {width: 330px; height: 30px; margin-left: 17px; animation-duration: 2s; animation-name: ring; animation-iteration-count: infinite;  }
-    .cakebox3 {width: 39%; height: 240px; margin-left: 10px; margin-top: 30px; background: url(../img/Watermelon1-2.png) no-repeat;}
+    .cakebox2 {width: 47%; height:90px; float: right; background: url(../img/cake1-2.png) no-repeat; margin-top: -150px;}
+    .cakebox-an3 {width: 330px; height: 85px; margin-left: 17px; animation-duration: 2s; animation-name: ring; animation-iteration-count: infinite;  }
+    .cakebox3 {width: 39%; height: 90px; margin-left: 10px; margin-top: 60px; background: url(../img/Watermelon1-2.png) no-repeat;}
     @keyframes ring {
       0% { transform: rotate(0); }
       13% { transform: rotate(0.5deg); }
