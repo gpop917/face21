@@ -110,7 +110,7 @@
     .phone4box {float: right; margin: 0 auto; width: 100%; height: 230px; margin-left: 17px; animation-duration: 6s; animation-name: ring; animation-iteration-count: infinite; display: flex; justify-content: end;}
     .class3-blackbordbox > img.phone4- {width: 40%; float: right; margin-top: -495px; margin-right: -107px; }
     img.heart2 {float: right; margin-top: -145px; width: 23%;}
-    .class3centerbox > img.exam6- {margin-top: 35px; margin-left: -258px; width: 41%;}
+    .class3centerbox > img.exam6- {margin-top: 35px; margin-left: -235px; width: 41%;}
 
     #page4 {width: 100%; height: 1080px; background: url(../img/4page-background2.png);}
     .class4box {width: 100%; height: 800px;}
@@ -127,24 +127,24 @@
 
 
     #page5 {width: 100%; height: 905px; background: url(../img/5page-background.png);}
-    .class5centerbox {width: 60%; height: 566px; margin: 0 auto; padding-top: 130px;}
+    .class5centerbox {width: 60%; height: 566px; margin: 0 auto; padding-top: 175px;}
     .class5-blackbordbox {width: 100%; height: 616px; background-color: #fff; border: 15px solid #00d0d8; }
     /* 좌측 하트 물풍선 */
-    .class5-blackbordbox > .blueheart1 {width: 20%; height: 31%; float: left; margin-left: -125px; margin-top: -109px;}
+    .class5-blackbordbox > .blueheart1 {width: 21%; height: 31%; float: left; margin-left: -120px; margin-top: -72px;}
     .class5-btnbox {width: 80px; height: 250px; float: left; margin-left: 560px; margin-top: 258px;}
     /* 안에 글씨 */
-    .class5-textbox {width: 129%; height: 93%; background: url(../img/class5box1.png) no-repeat; transform:scale(0.76); margin-top: -48px; margin-left: -107px;}
+    .class5-textbox {width: 129%; height: 93%; background: url(../img/class5box1.png) no-repeat; transform:scale(0.76); margin-top: -37px; margin-left: -107px;}
     .class5-btnbox > .go-btn {width: 60px; height: 60px; background-color: #00d0d8; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 30px;}
     .class5-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #00d0d8;  border-radius: 30px;}
     .class5-btnbox > .go-btn > a { color: #fff; font-size: 30px; text-align: center; }
     .class5-btnbox > .go-btn > a:hover {color: #00d0d8;}
-    .class5-blackbordbox > img {width: 38%; margin-right: -52px; margin-top: -352px; float: right;}
+    .class5-blackbordbox > img {width: 40%; margin-right: -52px; margin-top: -352px; float: right;}
 
 
     #page6 {width: 100%; height: 1840px; background: url(../img/6page.png);}
     .lovebox {width: 100%; height: 500px; padding-top: 50px;}
     .love-centerbox {width: 79%; height: 805px; margin: 0 auto;}
-    .love1box {width: 100%; height: 850px; margin-left: 17%; background: url(../img/love2.png) no-repeat; transform:scale(1)}
+    .love1box {width: 100%; height: 850px; margin-left: 10%; background: url(../img/love2.png) no-repeat; transform:scale(1)}
     .love3box {width: 107%; height: 850px;  background: url(../img/love3-1.png) no-repeat; margin-left: -147px;}
     .right-applebox {width: 32%; height: 470px; background: url(../img/apple1-2.png) no-repeat; float: right; margin-top: 140px;}
     .lovebox > img {float: right;}
