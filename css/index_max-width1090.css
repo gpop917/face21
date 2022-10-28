@@ -150,7 +150,7 @@
     .lovebox > img {float: right;}
     .class6box {width: 100%; height: 390px; margin-top: 390px; }
     .class6centerbox {width: 100%; height: 490px; margin: 0 auto;}
-    .class6-blackbordbox {width: 104%; height: 843px; background: url(../img/class6box1-1.png); transform:scale(0.89); margin-left: -146px; }
+    .class6-blackbordbox {width: 105%; height: 843px; background: url(../img/class6box1-1.png); transform:scale(0.89); margin-left: -146px; }
     .class6-btnbox {width: 80px; height: 450px; float: left; margin-left: 833px; margin-top: 833px; margin-top: 237px;}
     .class6-btnbox > .go-btn {width: 60px; height: 60px; background-color: #281762; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 30px;}
     .class6-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #281762;  border-radius: 30px;}
