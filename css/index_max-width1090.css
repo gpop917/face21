@@ -37,8 +37,8 @@
     .mebox > img {margin-top: -158px; margin-left:5px; width: 100%; }
     /* 원1교시박스 */
     .onecenterbox {width: 100%; height: 53px; margin-top: -33px;}
-    .text-1onebox {width: 213px; height: 53px; background-color: #000; border-radius: 30px; margin: 0 auto; }
-    .text-1onebox > P {color: #ddd; font-size: 29px; margin: 0 auto; width: 114px; line-height: 55px; font-family: 'S-CoreDream-3Light'; font-weight: bold;}
+    .text-1onebox {width: 188px; height: 53px; background-color: #000; border-radius: 30px; margin: 0 auto; }
+    .text-1onebox > P {color: #ddd; font-size: 25px; margin: 0 auto; width: 105px; line-height: 52px; font-family: 'S-CoreDream-3Light'; font-weight: bold;}
     /* 1칠판 */
     .class1box {width: 100%; height: 26%; margin-top: 210px;}
     .class1centerbox {width: 64%; height: 375px; margin: 0 auto;}
