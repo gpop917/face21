@@ -115,7 +115,7 @@
     #page4 {width: 100%; height: 1080px; background: url(../img/4page-background2.png);}
     .class4box {width: 100%; height: 800px;}
     .class4centerbox {width: 100%; height: 880px; margin: 0 auto;}
-    .class4-blackbordbox {width: 97%; height: 890px; background: url(../img/class4box1-1.png) center/cover no-repeat; transform: scale(0.89);}
+    .class4-blackbordbox {width: 97%; height: 890px; background: url(../img/class4box1-1.png) center/cover no-repeat; transform: scale(0.86);}
     .class4-btnbox {width: 80px; height: 510px; float: left; margin-left: 810px; margin-top: 339px;}
     .class4-btnbox > .go-btn {width: 60px; height: 60px; background-color: #8dcb07; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 28px;}
     .class4-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #8dcb07;  border-radius: 30px;}
