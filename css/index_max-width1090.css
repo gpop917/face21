@@ -112,56 +112,56 @@
     img.heart2 {float: right; margin-top: -145px; width: 23%; transform: scale(0.81); margin-right: -23px;}
     .class3centerbox > img.exam6- {margin-top: 14px; margin-left: -185px; width: 41%; transform:scale(0.89);}
 
-    #page4 {width: 100%; height: 1013px; background: url(../img/4page-background2.png);}
+    #page4 {width: 100%; height: 960px; background: url(../img/4page-background2.png);}
     .class4box {width: 100%; height: 800px;}
     .class4centerbox {width: 100%; height: 880px; margin: 0 auto;}
     .class4-blackbordbox {width: 107%; height: 890px; background: url(../img/class4box1-1.png) center/cover no-repeat; transform: scale(0.791); margin-left: -25px;}
-    .class4-btnbox {width: 5%; height: 510px; float: left; margin-left: 755px; margin-top: 246px;}
+    .class4-btnbox {width: 5%; height: 510px; float: left; margin-left: 57%; margin-top: 246px;}
     .class4-btnbox > .go-btn {width: 60px; height: 60px; background-color: #8dcb07; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 28px;}
     .class4-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #8dcb07;  border-radius: 30px;}
     .class4-btnbox > .go-btn > a { color: #fff; font-size: 30px; text-align: center; }
     .class4-btnbox > .go-btn > a:hover {color: #8dcb07;}
     .mebox3 {width: 36%; height: 130px; animation-duration: 9s; animation-name: ring; animation-iteration-count: infinite;}
-    .mebox3 > img.me3- {width: 98%; margin-top: -152px; margin-left: -43px; }
+    .mebox3 > img.me3- {width: 98%; margin-top: -152px; margin-left: -70px; }
     img.phone5- {width: 26%; margin-right: 28px; margin-top: -427px; float: right;}
 
 
     #page5 {width: 100%; height: 905px; background: url(../img/5page-background.png);}
-    .class5centerbox {width: 60%; height: 566px; margin: 0 auto; padding-top: 175px;}
-    .class5-blackbordbox {width: 100%; height: 616px; background-color: #fff; border: 15px solid #00d0d8; }
+    .class5centerbox {width: 68%; height: 566px; margin: 0 auto; padding-top: 185px;}
+    .class5-blackbordbox {width: 100%; height: 610px; background-color: #fff; border: 15px solid #00d0d8; }
     /* 좌측 하트 물풍선 */
-    .class5-blackbordbox > .blueheart1 {width: 21%; height: 31%; float: left; margin-left: -120px; margin-top: -72px;}
+    .class5-blackbordbox > .blueheart1 {width: 21%; height: 30%; float: left; margin-left: -120px; margin-top: -72px;}
     .class5-btnbox {width: 80px; height: 250px; float: left; margin-left: 560px; margin-top: 258px;}
     /* 안에 글씨 */
-    .class5-textbox {width: 129%; height: 93%; background: url(../img/class5box1.png) no-repeat; transform:scale(0.76); margin-top: -37px; margin-left: -107px;}
+    .class5-textbox {width: 134%; height: 95%; background: url(../img/class5box1.png) no-repeat; transform:scale(0.73); margin-top: -37px; margin-left: -125px;}
     .class5-btnbox > .go-btn {width: 60px; height: 60px; background-color: #00d0d8; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 30px;}
     .class5-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #00d0d8;  border-radius: 30px;}
     .class5-btnbox > .go-btn > a { color: #fff; font-size: 30px; text-align: center; }
     .class5-btnbox > .go-btn > a:hover {color: #00d0d8;}
-    .class5-blackbordbox > img {width: 40%; margin-right: -52px; margin-top: -352px; float: right;}
+    .class5-blackbordbox > img {width: 41%; margin-right: -52px; margin-top: -352px; float: right;}
 
 
     #page6 {width: 100%; height: 1815px; background: url(../img/6page.png);}
     .lovebox {width: 100%; height: 500px; padding-top: 50px;}
     .love-centerbox {width: 91%; height: 805px; margin: 0 auto;}
-    .love1box {width: 100%; height: 850px; margin-left: 10%; background: url(../img/love2.png) no-repeat; transform:scale(0.89)}
+    .love1box {width: 115%; height: 850px; margin-left: 3%; background: url(../img/love2.png) no-repeat; transform:scale(0.77)}
     .love3box {width: 113%; height: 850px;  background: url(../img/love3-1.png) no-repeat; margin-left: -147px;}
-    .right-applebox {width: 38%; height: 470px; background: url(../img/apple1-2.png) no-repeat; float: right; margin-top: 80px;}
+    .right-applebox {width: 44%; height: 470px; background: url(../img/apple1-2.png) no-repeat; float: right; margin-top: 80px;}
     .lovebox > img {float: right;}
     .class6box {width: 100%; height: 390px; margin-top: 390px; }
-    .class6centerbox {width: 1450px; height: 490px; margin: 0 auto;}
-    .class6-blackbordbox {width: 1470px; height: 843px; background: url(../img/class6box1-1.png); transform:scale(0.98) }
+    .class6centerbox {width: 100%; height: 490px; margin: 0 auto;}
+    .class6-blackbordbox {width: 104%; height: 843px; background: url(../img/class6box1-1.png); transform:scale(0.89); margin-left: -146px; }
     .class6-btnbox {width: 80px; height: 450px; float: left; margin-left: 833px; margin-top: 833px; margin-top: 237px;}
     .class6-btnbox > .go-btn {width: 60px; height: 60px; background-color: #281762; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 30px;}
     .class6-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #281762;  border-radius: 30px;}
     .class6-btnbox > .go-btn > a { color: #fff; font-size: 30px; text-align: center; }
     .class6-btnbox > .go-btn > a:hover {color: #281762;}
-    .right-mombox {width: 27%; height: 480px; background: url(../img/mom1-2.png) no-repeat; float: right; margin-top: 55px;}
+    .right-mombox {width: 29%; height: 480px; background: url(../img/mom1-2.png) no-repeat; float: right; margin-top: 55px;}
 
     footer {width: 100%; height: 128px; background-color: #281762;}
-    .p2box {padding-top: 25px; width: 60%; margin: 0 auto; display: flex; justify-content: space-around;}
-    .footer-p1 {color: #fff; font-size: 28px;}
-    .footer-p2 {color: #fff; font-size: 28px;}
-    .minibox {margin: 0 auto; width: 77%; padding-top: 10px; }
-    .mini {color: #fff; font-size: 13px; margin-top: 30px; opacity: 70%;}
+    .p2box {padding-top: 27px; width: 60%; margin: 0 auto; display: flex; justify-content: space-around;}
+    .footer-p1 {color: #fff; font-size: 26px;}
+    .footer-p2 {color: #fff; font-size: 26px;}
+    .minibox {margin: 0 auto; width: 77%; padding-top: 6px; }
+    .mini {color: #fff; font-size: 11.5px; margin-top: 30px; opacity: 70%;}
   }
