@@ -46,7 +46,7 @@
     /* 안에 글씨 */
     .class1-textbox-centerbox {width: 100%; height: 72%; margin: 0 auto;}
     .class1p {font-size: 20px; }
-    .class1-textbox {width: 102%; height: 113%; background: url(../img/class1box2-2.png) no-repeat; margin-left: -30px; transform:scale(0.897); }
+    .class1-textbox {width: 109%; height: 113%; background: url(../img/class1box2-2.png) no-repeat; margin-left: -42px; transform:scale(0.897); }
     .class1-btnbox { height: 250px; float: left; margin-left: 430px; margin-top: 188px;}
     .go-btn { width: 50px; height: 50px; background-color: #ff5ace; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 10px; transition: 0.4s;}
     .go-btn:hover {background-color: #fff; border: 1px solid #ff5ace;  border-radius: 30px;}
