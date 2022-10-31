@@ -94,7 +94,7 @@
     .class2-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #b75efc;  border-radius: 30px;}
     .class2-btnbox > .go-btn > a { color: #fff; font-size: 30px; text-align: center; }
     .class2-btnbox > .go-btn > a:hover {color: #b75efc;}
-    .class2box > img.me2 {width: 21%; margin-top: -218px; float: right; animation-duration: 9s; animation-name: ring; animation-iteration-count: infinite; margin-right: -12px;}
+    .class2box > img.me2 {width: 21%; margin-top: -218px; float: right; animation-duration: 9s; animation-name: ring; animation-iteration-count: infinite; }
     .class2box > img.page3-phone {margin-top: -140px; width: 25%; }
 
     #page3 {width: 100%; height: 740px; background: url(../img/3page-background2.jpg);}
@@ -117,7 +117,7 @@
     .class4box {width: 100%; height: 800px;}
     .class4centerbox {width: 100%; height: 880px; margin: 0 auto;}
     .class4-blackbordbox {width: 134%; height: 890px; background: url(../img/class4box1-1.png) center/cover no-repeat; transform: scale(0.651); margin-left: -135px;}
-    .class4-btnbox {width: 5%; height: 510px; float: left; margin-left: 57%; margin-top: 190px;}
+    .class4-btnbox {width: 5%; height: 510px; float: left; margin-left: 57%; margin-top: 220px;}
     .class4-btnbox > .go-btn {width: 60px; height: 60px; background-color: #8dcb07; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 28px;}
     .class4-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #8dcb07;  border-radius: 30px;}
     .class4-btnbox > .go-btn > a { color: #fff; font-size: 30px; text-align: center; }
@@ -142,27 +142,27 @@
     .class5-blackbordbox > img {width: 41%; margin-right: -52px; margin-top: -352px; float: right;}
 
 
-    #page6 {width: 100%; height: 1815px; background: url(../img/6page.png);}
+    #page6 {width: 100%; height: 1713px; background: url(../img/6page.png);}
     .lovebox {width: 100%; height: 500px; padding-top: 50px;}
     .love-centerbox {width: 91%; height: 805px; margin: 0 auto;}
-    .love1box {width: 115%; height: 850px; margin-left: 3%; background: url(../img/love2.png) no-repeat; transform:scale(0.77)}
+    .love1box {width: 134%; height: 850px; margin-left: -10%; background: url(../img/love2.png) no-repeat; transform:scale(0.67)}
     .love3box {width: 113%; height: 850px;  background: url(../img/love3-1.png) no-repeat; margin-left: -147px;}
-    .right-applebox {width: 44%; height: 470px; background: url(../img/apple1-2.png) no-repeat; float: right; margin-top: 80px;}
+    .right-applebox {width: 43%; height: 470px; background: url(../img/apple1-2.png) no-repeat; float: right; margin-top: 89px;}
     .lovebox > img {float: right;}
     .class6box {width: 100%; height: 390px; margin-top: 390px; }
     .class6centerbox {width: 100%; height: 490px; margin: 0 auto;}
-    .class6-blackbordbox {width: 105%; height: 843px; background: url(../img/class6box1-1.png); transform:scale(0.89); margin-left: -146px; }
+    .class6-blackbordbox {width: 110%; height: 843px; background: url(../img/class6box1-1.png); transform:scale(0.79); margin-left: -178px; }
     .class6-btnbox {width: 80px; height: 450px; float: left; margin-left: 833px; margin-top: 833px; margin-top: 237px;}
     .class6-btnbox > .go-btn {width: 60px; height: 60px; background-color: #281762; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 30px;}
     .class6-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #281762;  border-radius: 30px;}
     .class6-btnbox > .go-btn > a { color: #fff; font-size: 30px; text-align: center; }
     .class6-btnbox > .go-btn > a:hover {color: #281762;}
-    .right-mombox {width: 28%; height: 480px; background: url(../img/mom1-2.png) no-repeat; float: right; margin-top: 55px;}
+    .right-mombox {width: 33%; height: 480px; background: url(../img/mom1-2.png) no-repeat; float: right; margin-top: -20px; margin-right: -25px;}
 
     footer {width: 100%; height: 128px; background-color: #281762;}
-    .p2box {padding-top: 27px; width: 60%; margin: 0 auto; display: flex; justify-content: space-around;}
-    .footer-p1 {color: #fff; font-size: 26px;}
-    .footer-p2 {color: #fff; font-size: 26px;}
-    .minibox {margin: 0 auto; width: 77%; padding-top: 6px; }
-    .mini {color: #fff; font-size: 11px; margin-top: 30px; opacity: 70%;}
+    .p2box { width: 73%; margin: 0 auto; display: flex; justify-content: space-around;}
+    .footer-p1 {color: #fff; font-size: 23px;}
+    .footer-p2 {color: #fff; font-size: 23px;}
+    .minibox {margin: 0 auto; width: 80%; padding-top: 6px; }
+    .mini {color: #fff; font-size: 10px; margin-top: 30px; opacity: 70%;}
   }
