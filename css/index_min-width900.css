@@ -123,12 +123,12 @@
     .class4-btnbox > .go-btn > a { color: #fff; font-size: 30px; text-align: center; }
     .class4-btnbox > .go-btn > a:hover {color: #8dcb07;}
     .mebox3 {width: 39%; height: 130px; animation-duration: 9s; animation-name: ring; animation-iteration-count: infinite;}
-    .mebox3 > img.me3- {width: 100%; margin-top: -155px; margin-left: -45px; }
+    .mebox3 > img.me3- {width: 100%; margin-top: -215px; margin-left: -60px; }
     img.phone5- {width: 29%; margin-right: 24px; margin-top: -430px; float: right;}
 
 
-    #page5 {width: 100%; height: 745px; background: url(../img/5page-background2.png);}
-    .class5centerbox {width: 75%; height: 566px; margin: 0 auto; padding-top: 228px;}
+    #page5 {width: 100%; height: 655px; background: url(../img/5page-background2.png) no-repeat;}
+    .class5centerbox {width: 75%; height: 566px; margin: 0 auto; padding-top: 135px;}
     .class5-blackbordbox {width: 100%; height: 515px; background-color: #fff; border: 15px solid #00d0d8; }
     /* 좌측 하트 물풍선 */
     .class5-blackbordbox > .blueheart1 {width: 21%; height: 30%; float: left; margin-left: -120px; margin-top: -72px;}
