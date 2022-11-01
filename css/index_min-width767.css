@@ -53,7 +53,7 @@
     .go-btn > a { color: #fff; font-size: 26px; text-align: center; }
     .go-btn > a:hover {color: #ff5ace;}
     /* phone2 */
-    .phone2 {width: 25%; float: right; margin-right: 113px; margin-top: -357px; }
+    .phone2 {width: 25%; float: right; margin-right: 113px; margin-top: -335px; }
     /* left2cake */
     .cakebox-an {width: 245px; height: 18px; margin-left: 17px; animation-duration: 2s; animation-name: ring; animation-iteration-count: infinite;  }
     .cakebox2 {width: 79%; height:70px; float: right; background: url(../img/cake.png) no-repeat; margin-top: -133px; transform: scale(0.799);}
@@ -84,7 +84,7 @@
 
  
 
-    #page2 {width: 100%; height: 726px; background: url(../img/2page-background3.png) no-repeat; margin-top: 40px;}
+    #page2 {width: 100%; height: 726px; background: url(../img/2page-background4.jpg) no-repeat; margin-top: 40px;}
 
     .class2box {width: 100%; height: 800px;} 
     .class2centerbox {width: 74%; height: 484px; margin: 0 auto;}
