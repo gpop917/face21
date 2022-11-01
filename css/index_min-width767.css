@@ -31,7 +31,7 @@
     /* 중간 핸드폰 */
     .phonebox {width: 100%; height: 58px; }
     .centerbox {width: 67%; margin: 0 auto; }
-    .centerbox >img {margin-top: -173px; width: 101%;}
+    .centerbox >img {margin-top: -190px; width: 101%;}
     /* 나1 */
     .mebox {width: 30%; height: 50px; animation-duration: 9s; animation-name: ring; animation-iteration-count: infinite; margin-top: -40px;}
     .mebox > img {margin-top: -135px; margin-left:5px; width: 100%; }
