@@ -129,12 +129,12 @@
 
     #page5 {width: 100%; height: 655px; background: url(../img/5page-background3.jpg) no-repeat;}
     .class5centerbox {width: 75%; height: 210px; margin: 0 auto;}
-    .class5box {padding-top: 113px;}
+    .class5box {padding-top: 112px;}
 
     .class5-blackbordbox {width: 100%; height: 377px; background-color: #fff; border: 15px solid #00d0d8; }
     /* 좌측 하트 물풍선 */
     .class5-blackbordbox > .blueheart1 {width: 21%; height: 30%; float: left; margin-left: -120px; margin-top: -72px;}
-    .class5-btnbox {width: 80px; height:45%; float: left; margin-left: 560px; margin-top: 79px;}
+    .class5-btnbox {width: 80px; height:45%; float: left; margin-left: 560px; margin-top: 259px;}
     /* 안에 글씨 */
     .class5-textbox {width: 171%; height: 162%; background: url(../img/class5box1.png) no-repeat; transform:scale(0.501); -webkit-transform-origin-y: top; margin-left: -227px;}
     .class5-btnbox > .go-btn {width: 60px; height: 60px; background-color: #00d0d8; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 30px;}
