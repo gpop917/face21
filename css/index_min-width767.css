@@ -114,9 +114,9 @@
     .class3centerbox > img.exam6- { margin-left: -291px; margin-top:8px; width: 41%; transform:scale(0.89);}
 
     #page4 {width: 100%; height: 615px; background: url(../img/4page-background3.jpg) no-repeat; margin-top: -55px;}
-    .class4box {width: 100%; height: 290px;}
+    .class4box {width: 100%; height: 290px; margin-top: 54px;}
     .class4centerbox {width: 100%; height: 326px; margin: 0 auto;}
-    .class4-blackbordbox {width: 152%; height: 890px; background: url(../img/class4box1-1.png) center/cover no-repeat; transform: scale(0.511); margin-left: -200px; margin-top: -46px; -webkit-transform-origin-y: top;}
+    .class4-blackbordbox {width: 152%; height: 890px; background: url(../img/class4box1-1.png) center/cover no-repeat; transform: scale(0.511); margin-left: -200px; -webkit-transform-origin-y: top;}
     .class4-btnbox {width: 5%; height: 343px; float: left; margin-left: 57%; margin-top: 160px;}
     .class4-btnbox > .go-btn {width: 60px; height: 60px; background-color: #8dcb07; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 28px;}
     .class4-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #8dcb07;  border-radius: 30px;}
