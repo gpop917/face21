@@ -88,7 +88,7 @@
     .class2-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #b75efc;  border-radius: 30px;}
     .class2-btnbox > .go-btn > a { color: #fff; font-size: 30px; text-align: center; }
     .class2-btnbox > .go-btn > a:hover {color: #b75efc;}
-    .class2box > img.me2 {width: 26%; margin-right: 380px; margin-top: -500px; float: right; animation-duration: 9s; animation-name: ring; animation-iteration-count: infinite;}
+    .class2box > img.me2 {width: 15%; margin-right: 380px; margin-top: -469px; float: right; animation-duration: 9s; animation-name: ring; animation-iteration-count: infinite;}
     .class2box > img.page3-phone {margin-top: -342px; width: 19%; margin-left: 165px;}
 
     #page3 {width: 100%; height: 889px; background: url(../img/3page-background.png);}

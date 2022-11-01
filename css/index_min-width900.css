@@ -108,7 +108,7 @@
     .class3-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #f7b20d;  border-radius: 30px;}
     .class3-btnbox > .go-btn > a { color: #fff; font-size: 30px; text-align: center; }
     .class3-btnbox > .go-btn > a:hover {color: #f7b20d;}
-    .phone4box {float: right; width: 95%; height: 350px; margin-left: 17px; animation-duration: 6s; animation-name: ring; animation-iteration-count: infinite; display: flex; justify-content: end; margin-right: -20px; margin-top: -100px;}
+    .phone4box {float: right; width: 95%; height: 304px; margin-left: 17px; animation-duration: 6s; animation-name: ring; animation-iteration-count: infinite; display: flex; justify-content: end; margin-right: -20px; margin-top: -70px;}
     .class3-blackbordbox > img.phone4- {width: 41%; float: right; margin-top: -460px; margin-right: -107px; }
     img.heart2 {float: right; margin-top: -145px; width: 23%; transform: scale(0.81); margin-right: -23px;}
     .class3centerbox > img.exam6- { margin-left: -335px; margin-top: 88px; width: 41%; transform:scale(0.89);}
@@ -117,7 +117,7 @@
     .class4box {width: 100%; height: 800px;}
     .class4centerbox {width: 100%; height: 880px; margin: 0 auto;}
     .class4-blackbordbox {width: 134%; height: 890px; background: url(../img/class4box1-1.png) center/cover no-repeat; transform: scale(0.651); margin-left: -135px;}
-    .class4-btnbox {width: 5%; height: 510px; float: left; margin-left: 57%; margin-top: 220px;}
+    .class4-btnbox {width: 5%; height: 510px; float: left; margin-left: 57%; margin-top: 231px;}
     .class4-btnbox > .go-btn {width: 60px; height: 60px; background-color: #8dcb07; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 28px;}
     .class4-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #8dcb07;  border-radius: 30px;}
     .class4-btnbox > .go-btn > a { color: #fff; font-size: 30px; text-align: center; }
