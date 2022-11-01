@@ -40,13 +40,13 @@
     .text-1onebox {width: 152px; height: 40px; background-color: #000; border-radius: 30px; margin: 0 auto; }
     .text-1onebox > P {color: #ddd; font-size: 21px; margin: 0 auto; width: 83px; line-height: 46px; font-family: 'S-CoreDream-3Light'; font-weight: bold;}
     /* 1칠판 */
-    .class1box {width: 100%; height: 26%; margin-top: 100px;}
+    .class1box {width: 100%; height: 26%; margin-top: 175px;}
     .class1centerbox {width: 66%; height: 375px; margin: 0 auto;}
-    .class1-blackbordbox {width: 100%; height: 475px; background-color: #fff; border: 15px solid #ff5ace; margin-top: 20px;}
+    .class1-blackbordbox {width: 100%; height: 372px; background-color: #fff; border: 10px solid #ff5ace; margin-top: 20px;}
     /* 안에 글씨 */
     .class1-textbox-centerbox {width: 100%; height: 72%; margin: 0 auto;}
     .class1p {font-size: 20px; }
-    .class1-textbox {width: 115%; height: 127%; background: url(../img/class1box2-2.png) no-repeat; margin-left: -65px; transform:scale(0.887); }
+    .class1-textbox {width: 140%; height: 162%; background: url(../img/class1box2-2.png) no-repeat; margin-left: -122px; transform:scale(0.687); margin-top: 50px;}
     .class1-btnbox { height: 250px; float: left; margin-left: 430px; margin-top: 188px;}
     .go-btn { width: 50px; height: 50px; background-color: #ff5ace; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 10px; transition: 0.4s;}
     .go-btn:hover {background-color: #fff; border: 1px solid #ff5ace;  border-radius: 30px;}
