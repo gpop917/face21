@@ -4,7 +4,7 @@
   ul,li,ol {list-style: none;}
   a {text-decoration: none; text-decoration: none;}
 
-  @media (min-width:900px) and (max-width:1089px){
+  @media (min-width:767px) and (max-width:899px){
     #top {width: 100%; height: 100%; background: url(../img/top1-3.png); }
     .topimgbox {width: 100%; margin: 0 auto;  }
     .kimimg { width: 165%; height: 80%; background: url(../img/top2-2.png) center/cover no-repeat; margin: 0 auto; transform: scale(0.569) ; margin-top: -205px; margin-left: -33%;} 
