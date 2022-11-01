@@ -36,9 +36,9 @@
     .mebox {width: 30%; height: 50px; animation-duration: 9s; animation-name: ring; animation-iteration-count: infinite; margin-top: -40px;}
     .mebox > img {margin-top: -116px; margin-left:-10px; width: 100%; }
     /* 원1교시박스 */
-    .onecenterbox {width: 100%; height: 53px; margin-top: -33px;}
-    .text-1onebox {width: 152px; height: 40px; background-color: #000; border-radius: 30px; margin: 0 auto; }
-    .text-1onebox > P {color: #ddd; font-size: 21px; margin: 0 auto; width: 83px; line-height: 46px; font-family: 'S-CoreDream-3Light'; font-weight: bold;}
+    .onecenterbox {width: 100%; height: 53px; margin-top: -33px; padding-top: 10px;}
+    .text-1onebox {width: 132px; height: 32px; background-color: #000; border-radius: 30px; margin: 0 auto; }
+    .text-1onebox > P {color: #ddd; font-size: 20px; margin: 0 auto; width: 83px; line-height: 35px; font-family: 'S-CoreDream-3Light'; font-weight: bold;}
     /* 1칠판 */
     .class1box {width: 100%; height: 26%; margin-top: 175px;}
     .class1centerbox {width: 66%; height: 375px; margin: 0 auto;}
@@ -84,7 +84,7 @@
 
  
 
-    #page2 {width: 100%; height: 726px; background: url(../img/2page-background4.jpg) no-repeat; margin-top: 40px;}
+    #page2 {width: 100%; height: 690px; background: url(../img/2page-background4.jpg) no-repeat; margin-top: 40px;}
 
     .class2box {width: 100%; height: 800px;} 
     .class2centerbox {width: 74%; height: 484px; margin: 0 auto;}
@@ -94,29 +94,29 @@
     .class2-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #b75efc;  border-radius: 30px;}
     .class2-btnbox > .go-btn > a { color: #fff; font-size: 30px; text-align: center; }
     .class2-btnbox > .go-btn > a:hover {color: #b75efc;}
-    .class2box > img.me2 {width: 21%; margin-top: -218px; float: right; animation-duration: 9s; animation-name: ring; animation-iteration-count: infinite; }
+    .class2box > img.me2 {width: 22%; margin-top: -218px; float: right; animation-duration: 9s; animation-name: ring; animation-iteration-count: infinite; }
     .class2box > img.page3-phone {margin-top: -140px; width: 25%; }
 
-    #page3 {width: 100%; height: 740px; background: url(../img/3page-background2.jpg);}
+    #page3 {width: 100%; height: 615px; background: url(../img/3page-background2.jpg);}
     .class3box {width: 100%; height: 22%;}
-    .class3centerbox {width: 72%; height: 566px; margin: 0 auto;}
-    .class3-blackbordbox {width: 100%; height: 545px; background-color: #fff; border: 15px solid #f7b20d; }
+    .class3centerbox {width: 71%; height: 566px; margin: 0 auto;}
+    .class3-blackbordbox {width: 100%; height: 435px; background-color: #fff; border: 10px solid #f7b20d; }
     .class3-btnbox {width: 80px; height: 430px; float: left; margin-left: 280px; margin-top: 214px;}
     /* 안에 글씨 */
-    .class3-textbox {width: 144%; height: 130%; background: url(../img/class3box1.png) no-repeat; transform:scale(0.69); margin-top: -93px; margin-left: -146px;}
+    .class3-textbox {width: 166%; height: 157%; background: url(../img/class3box1.png) no-repeat; transform:scale(0.539); margin-top: -141px; margin-left: -197px;}
     .class3-btnbox > .go-btn {width: 60px; height: 60px; background-color: #f7b20d; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 18px;}
     .class3-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #f7b20d;  border-radius: 30px;}
     .class3-btnbox > .go-btn > a { color: #fff; font-size: 30px; text-align: center; }
     .class3-btnbox > .go-btn > a:hover {color: #f7b20d;}
-    .phone4box {float: right; width: 95%; height: 304px; margin-left: 17px; animation-duration: 6s; animation-name: ring; animation-iteration-count: infinite; display: flex; justify-content: end; margin-right: -20px; margin-top: -70px;}
-    .class3-blackbordbox > img.phone4- {width: 41%; float: right; margin-top: -460px; margin-right: -107px; }
-    img.heart2 {float: right; margin-top: -145px; width: 23%; transform: scale(0.81); margin-right: -23px;}
-    .class3centerbox > img.exam6- { margin-left: -335px; margin-top: 88px; width: 41%; transform:scale(0.89);}
+    .phone4box {float: right; width: 95%; height: 277px; margin-left: 17px; animation-duration: 6s; animation-name: ring; animation-iteration-count: infinite; display: flex; justify-content: end; margin-right: -20px; margin-top: -70px;}
+    .class3-blackbordbox > img.phone4- {width: 41%; float: right; margin-top: -415px; margin-right: -75px; }
+    img.heart2 {float: right; margin-top: -213px; width: 23%; transform: scale(0.81); }
+    .class3centerbox > img.exam6- { margin-left: -291px; margin-top: 34px; width: 41%; transform:scale(0.89);}
 
     #page4 {width: 100%; height: 960px; background: url(../img/4page-background2.png); margin-top: -55px;}
     .class4box {width: 100%; height: 800px;}
     .class4centerbox {width: 100%; height: 880px; margin: 0 auto;}
-    .class4-blackbordbox {width: 134%; height: 890px; background: url(../img/class4box1-1.png) center/cover no-repeat; transform: scale(0.651); margin-left: -135px;}
+    .class4-blackbordbox {width: 152%; height: 890px; background: url(../img/class4box1-1.png) center/cover no-repeat; transform: scale(0.541); margin-left: -200px;}
     .class4-btnbox {width: 5%; height: 510px; float: left; margin-left: 57%; margin-top: 231px;}
     .class4-btnbox > .go-btn {width: 60px; height: 60px; background-color: #8dcb07; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 28px;}
     .class4-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #8dcb07;  border-radius: 30px;}
