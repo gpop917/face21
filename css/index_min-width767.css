@@ -88,7 +88,7 @@
 
     .class2box {width: 100%; height: 800px;} 
     .class2centerbox {width: 74%; height: 484px; margin: 0 auto;}
-    .class2-blackbordbox {width: 160%; height: 584px; background: url(../img/class2box1-1.png) center/cover no-repeat; transform: scale(0.58); margin-left: -184px;}
+    .class2-blackbordbox {width: 160%; height: 584px; background: url(../img/class2box1-1.png) center/cover no-repeat; transform: scale(0.58); margin-left: -184px; margin-top: -60px;}
     .class2-btnbox {width: 6%; height: 200px; float: left; margin-left: 64%; margin-top: 295px;}
     .class2-btnbox > .go-btn {width: 60px; height: 60px; background-color: #b75efc; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 40px;}
     .class2-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #b75efc;  border-radius: 30px;}
