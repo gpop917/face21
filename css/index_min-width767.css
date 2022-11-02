@@ -144,22 +144,22 @@
     .class5-blackbordbox > img {width: 38%; margin-right: -52px; margin-top: -480px; float: right;}
 
 
-    #page6 {width: 100%; height: 1765px; background: url(../img/6page.png);}
+    #page6 {width: 100%; height: 1258px; background: url(../img/6page.png);}
     .lovebox {width: 100%; height: 500px; }
     .love-centerbox {width: 109%; height: 635px; margin: 0 auto;}
     .love1box {width: 134%; height: 850px; margin-left: -17%; background: url(../img/love2.png) no-repeat; transform:scale(0.517); -webkit-transform-origin-y: top;}
     .love3box {width: 113%; height: 850px;  background: url(../img/love3-1.png) no-repeat; margin-left: -147px;}
-    .right-applebox {width: 43%; height: 470px; background: url(../img/apple1-2.png) no-repeat; float: right; margin-top: 89px;}
+    .right-applebox {width: 43%; height: 470px; background: url(../img/apple1-2.png) no-repeat; float: right; transform: scale(0.7); margin-top: -165px; margin-right: -87px;}
     .lovebox > img {float: right;}
-    .class6box {width: 100%; height: 390px; margin-top: 390px; }
+    .class6box {width: 100%; height: 390px; }
     .class6centerbox {width: 100%; height: 490px; margin: 0 auto;}
-    .class6-blackbordbox {width: 129%; height: 843px; background: url(../img/class6box1-1.png); transform:scale(0.79); margin-left: -250px; }
-    .class6-btnbox {width: 80px; height: 450px; float: left; margin-left: 833px; margin-top: 833px; margin-top: 237px;}
+    .class6-blackbordbox {width: 148%; height: 843px; background: url(../img/class6box1-1.png); transform:scale(0.69); margin-left: -298px; }
+    .class6-btnbox {width: 80px; height: 450px; float: left; margin-left: 833px; margin-top: 94px;}
     .class6-btnbox > .go-btn {width: 60px; height: 60px; background-color: #281762; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 30px;}
     .class6-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #281762;  border-radius: 30px;}
     .class6-btnbox > .go-btn > a { color: #fff; font-size: 30px; text-align: center; }
     .class6-btnbox > .go-btn > a:hover {color: #281762;}
-    .right-mombox {width: 33%; height: 480px; background: url(../img/mom1-2.png) no-repeat; float: right; margin-top: 56px; margin-right: -73px; transform: scale(0.79);}
+    .right-mombox {width: 47%; height: 480px; background: url(../img/mom1-2.png) no-repeat; float: right; margin-top: -520px; margin-right: -47px; transform: scale(0.79);}
 
     footer {width: 100%; height: 130px; background-color: #281762;}
     .p2box { width: 76%; margin: 0 auto; display: flex; justify-content: space-around;}
