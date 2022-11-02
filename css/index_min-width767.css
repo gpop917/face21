@@ -146,8 +146,8 @@
 
     #page6 {width: 100%; height: 1765px; background: url(../img/6page.png);}
     .lovebox {width: 100%; height: 500px; padding-top: 50px;}
-    .love-centerbox {width: 91%; height: 805px; margin: 0 auto;}
-    .love1box {width: 134%; height: 850px; margin-left: -10%; background: url(../img/love2.png) no-repeat; transform:scale(0.67)}
+    .love-centerbox {width: 109%; height: 805px; margin: 0 auto;}
+    .love1box {width: 134%; height: 850px; margin-left: -17%; background: url(../img/love2.png) no-repeat; transform:scale(0.517);}
     .love3box {width: 113%; height: 850px;  background: url(../img/love3-1.png) no-repeat; margin-left: -147px;}
     .right-applebox {width: 43%; height: 470px; background: url(../img/apple1-2.png) no-repeat; float: right; margin-top: 89px;}
     .lovebox > img {float: right;}
