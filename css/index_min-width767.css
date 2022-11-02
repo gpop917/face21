@@ -131,7 +131,7 @@
     .class5centerbox {width: 75%; height: 210px; margin: 0 auto;}
     .class5box {padding-top: 112px;}
 
-    .class5-blackbordbox {width: 100%; height: 377px; background-color: #fff; border: 15px solid #00d0d8; }
+    .class5-blackbordbox {width: 100%; height: 377px; background-color: #fff; border: 13px solid #00d0d8; }
     /* 좌측 하트 물풍선 */
     .class5-blackbordbox > .blueheart1 {width: 21%; height: 30%; float: left; margin-left: -65px; margin-top: -285px;}
     .class5-btnbox {width: 80px; height:45%; float: left; margin-left: 560px; margin-top: 259px;}
@@ -145,8 +145,8 @@
 
 
     #page6 {width: 100%; height: 1765px; background: url(../img/6page.png);}
-    .lovebox {width: 100%; height: 500px; padding-top: 50px;}
-    .love-centerbox {width: 109%; height: 805px; margin: 0 auto;}
+    .lovebox {width: 100%; height: 500px; }
+    .love-centerbox {width: 109%; height: 635px; margin: 0 auto;}
     .love1box {width: 134%; height: 850px; margin-left: -17%; background: url(../img/love2.png) no-repeat; transform:scale(0.517);}
     .love3box {width: 113%; height: 850px;  background: url(../img/love3-1.png) no-repeat; margin-left: -147px;}
     .right-applebox {width: 43%; height: 470px; background: url(../img/apple1-2.png) no-repeat; float: right; margin-top: 89px;}
