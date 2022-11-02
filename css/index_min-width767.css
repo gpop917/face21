@@ -141,7 +141,7 @@
     .class5-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #00d0d8;  border-radius: 30px;}
     .class5-btnbox > .go-btn > a { color: #fff; font-size: 30px; text-align: center; }
     .class5-btnbox > .go-btn > a:hover {color: #00d0d8;}
-    .class5-blackbordbox > img {width: 38%; margin-right: -52px; margin-top: - 480px; float: right;}
+    .class5-blackbordbox > img {width: 38%; margin-right: -52px; margin-top: -480px; float: right;}
 
 
     #page6 {width: 100%; height: 1765px; background: url(../img/6page.png);}
