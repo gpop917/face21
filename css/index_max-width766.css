@@ -38,7 +38,7 @@
     /* 원1교시박스 */
     .onecenterbox {width: 100%; height: 53px; margin-top: -27px; padding-top: 10px;}
     .text-1onebox {width: 88px; height: 23px; background-color: #000; border-radius: 30px; margin: 0 auto; }
-    .text-1onebox > P {color: #ddd; font-size: 14px; margin: 0 auto; width: 56px; line-height: 26px; font-family: 'S-CoreDream-3Light'; font-weight: bold;}
+    .text-1onebox > P {color: #ddd; font-size: 14px; line-height: 26px; position: absolute; margin: 0 auto; width: 88px; height: 23px; font-family: 'S-CoreDream-3Light'; font-weight: bold; position: absolute; text-align: center; }
     /* 1칠판 */
     .class1box {width: 100%; height: 26%; margin-top: 40px;}
     .class1centerbox {width: 77%; height: 316px; margin: 0 auto;}
