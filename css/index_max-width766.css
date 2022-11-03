@@ -97,7 +97,7 @@
     .class2box > img.me2 {width: 22%; margin-top: -414px; float: right; animation-duration: 9s; animation-name: ring; animation-iteration-count: infinite; }
     .class2box > img.page3-phone {margin-top: -318px; width: 25%; float: left; margin-left: -10px; }
 
-    #page3 {width: 100%; height: 610px; background: url(../img/3page-background3m.jpg) no-repeat;}
+    #page3 {width: 100%; height: 465px; background: url(../img/3page-background3m.jpg) no-repeat;}
     .class3box {width: 100%; height: 22%;}
     .class3centerbox {width: 80%; height: 314px; margin: 0 auto;}
     .class3-blackbordbox {width: 100%; height: 314px; background-color: #fff; border: 8px solid #f7b20d; }
@@ -108,36 +108,36 @@
     .class3-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #f7b20d;  border-radius: 30px;}
     .class3-btnbox > .go-btn > a { color: #fff; font-size: 30px; text-align: center; }
     .class3-btnbox > .go-btn > a:hover {color: #f7b20d;}
-    .phone4box {float: right; width: 95%; height: 277px; margin-left: 17px; animation-duration: 6s; animation-name: ring; animation-iteration-count: infinite; display: flex; justify-content: end; margin-right: -20px; margin-top: -70px;}
-    .class3-blackbordbox > img.phone4- {width: 41%; float: right; margin-top: -418px; margin-right: -62px; }
-    img.heart2 {float: right; margin-top: -213px; width: 23%; height: 420px; transform: scale(0.81); }
-    .class3centerbox > img.exam6- { margin-left: -291px; margin-top:8px; width: 41%; transform:scale(0.89);}
+    .phone4box {float: right; width: 95%; height: 12px; margin-left: 17px; animation-duration: 6s; animation-name: ring; animation-iteration-count: infinite; display: flex; justify-content: end; margin-top: -70px;}
+    .class3-blackbordbox > img.phone4- {width: 39%; float: right; margin-top: -418px; margin-right: -56px; }
+    img.heart2 {float: right; margin-top: -174px; width: 23%; height: 316px; transform: scale(0.81); margin-right: -10px; }
+    .class3centerbox > img.exam6- { margin-left: - 160px; margin-top:8px; width: 38%; transform:scale(0.89);}
 
-    #page4 {width: 100%; height: 615px; background: url(../img/4page-background3.jpg) no-repeat; margin-top: -55px;}
-    .class4box {width: 100%; height: 290px; margin-top: 54px;}
+    #page4 {width: 100%; height: 426px; background: url(../img/4page-background3.jpg) no-repeat; margin-top: -55px;}
+    .class4box {width: 100%; height: 290px; margin-top: 46px;}
     .class4centerbox {width: 100%; height: 326px; margin: 0 auto;}
-    .class4-blackbordbox {width: 152%; height: 890px; background: url(../img/class4box1-1.png) center/cover no-repeat; transform: scale(0.511); margin-left: -200px; -webkit-transform-origin-y: top;}
-    .class4-btnbox {width: 5%; height: 317px; float: left; margin-left: 57%; margin-top: 228px;}
+    .class4-blackbordbox {width: 249%; height: 890px; background: url(../img/class4box1-1.png) center/cover no-repeat; transform: scale(0.388); margin-left: -357px; -webkit-transform-origin-y: top;}
+    .class4-btnbox {width: 5%; height: 317px; float: left; margin-left: 57%; margin-top: 327px;}
     .class4-btnbox > .go-btn {width: 60px; height: 60px; background-color: #8dcb07; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 28px;}
     .class4-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #8dcb07;  border-radius: 30px;}
     .class4-btnbox > .go-btn > a { color: #fff; font-size: 30px; text-align: center; }
     .class4-btnbox > .go-btn > a:hover {color: #8dcb07;}
-    .mebox3 {width: 35%; height: 100px; animation-duration: 9s; animation-name: ring; animation-iteration-count: infinite;}
-    .mebox3 > img.me3- {width: 100%; margin-top: -490px; margin-left: -60px; }
-    img.phone5- {width: 27%; margin-right: 24px; margin-top: -135px; float: right;}
+    .mebox3 {width: 37%; height: 100px; animation-duration: 9s; animation-name: ring; animation-iteration-count: infinite; position: absolute;}
+    .mebox3 > img.me3- {width: 100%; margin-top: 20px; margin-left: -31px; }
+    img.phone5- {width: 28%; margin-right: 15px; margin-top: -432px; float: right; }
 
 
-    #page5 {width: 100%; height: 553px; background: url(../img/5page-background3.jpg) no-repeat;}
-    .class5centerbox {width: 75%; height: 210px; margin: 0 auto;}
-    .class5box {padding-top: 112px;}
+    #page5 {width: 100%; height: 553px; background: url(../img/5page-background3m.jpg) no-repeat;}
+    .class5centerbox {width: 81%; height: 210px; margin: 0 auto;}
+    .class5box {padding-top: 90px;}
 
-    .class5-blackbordbox {width: 100%; height: 377px; background-color: #fff; border: 13px solid #00d0d8; }
+    .class5-blackbordbox {width: 100%; height: 283px; background-color: #fff; border: 8px solid #00d0d8; }
     /* 좌측 하트 물풍선 */
-    .class5-blackbordbox > .blueheart1 {width: 21%; height: 30%; float: left; margin-left: -65px; margin-top: -285px;}
-    .class5-btnbox {width: 80px; height:45%; float: left; margin-left: 560px; margin-top: 259px;}
+    .class5-blackbordbox > .blueheart1 {width: 21%; height: 30%; float: left; margin-left: -53px; margin-top: -354px;}
+    .class5-btnbox {width: 80px; height:45%; float: left; margin-left: 560px; margin-top: 112px;}
     /* 안에 글씨 */
-    .class5-textbox {width: 171%; height: 162%; background: url(../img/class5box1.png) no-repeat; transform:scale(0.501); -webkit-transform-origin-y: top; margin-left: -227px;}
-    .class5-btnbox > .go-btn {width: 60px; height: 60px; background-color: #00d0d8; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 30px;}
+    .class5-textbox {width: 251%; height: 208%; background: url(../img/class5box1.png) no-repeat; transform:scale(0.384); -webkit-transform-origin-y: top; margin-left: -284px;}
+    .class5-btnbox > .go-btn {width: 60px; height: 60px; background-color: #00d0d8; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 18px;}
     .class5-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #00d0d8;  border-radius: 30px;}
     .class5-btnbox > .go-btn > a { color: #fff; font-size: 30px; text-align: center; }
     .class5-btnbox > .go-btn > a:hover {color: #00d0d8;}
