@@ -56,7 +56,7 @@
     .go-btn > a { color: #fff; font-size: 30px; text-align: center; }
     .go-btn > a:hover {color: #ff5ace;}
     /* phone2 */
-    .phone2 {width: 16%; float: right; margin-right: 491px; margin-top: -584px; }
+    .phone2 {width: 18%; float: right; margin-right: 590px; margin-top: -597px; }
     /* left2cake */
     .cakebox-an {width: 330px; height: 105px; margin-left: 97px; animation-duration: 3s; animation-name: ring; animation-iteration-count: infinite;  }
     .cakebox2 {width: 36%; height: 116px; float: right; background: url(../img/cake3.png) no-repeat; margin-top: -72px;}
