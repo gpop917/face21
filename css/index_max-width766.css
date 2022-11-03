@@ -99,17 +99,17 @@
 
     #page3 {width: 100%; height: 610px; background: url(../img/3page-background3.jpg) no-repeat;}
     .class3box {width: 100%; height: 22%;}
-    .class3centerbox {width: 71%; height: 566px; margin: 0 auto;}
-    .class3-blackbordbox {width: 100%; height: 435px; background-color: #fff; border: 10px solid #f7b20d; }
-    .class3-btnbox {width: 80px; height: 430px; float: left; margin-left: 280px; margin-top: 214px;}
+    .class3centerbox {width: 80%; height: 314px; margin: 0 auto;}
+    .class3-blackbordbox {width: 100%; height: 314px; background-color: #fff; border: 8px solid #f7b20d; }
+    .class3-btnbox {width: 80px; height: 430px; float: left; margin-left: 280px; margin-top: -127px;}
     /* 안에 글씨 */
-    .class3-textbox {width: 166%; height: 157%; background: url(../img/class3box1.png) no-repeat; transform:scale(0.539); margin-top: -141px; margin-left: -197px;}
+    .class3-textbox {width: 241%; height: 234%; background: url(../img/class3box1.png) no-repeat; transform:scale(0.419); margin-top: -211px; margin-left: -262px;}
     .class3-btnbox > .go-btn {width: 60px; height: 60px; background-color: #f7b20d; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 18px;}
     .class3-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #f7b20d;  border-radius: 30px;}
     .class3-btnbox > .go-btn > a { color: #fff; font-size: 30px; text-align: center; }
     .class3-btnbox > .go-btn > a:hover {color: #f7b20d;}
     .phone4box {float: right; width: 95%; height: 277px; margin-left: 17px; animation-duration: 6s; animation-name: ring; animation-iteration-count: infinite; display: flex; justify-content: end; margin-right: -20px; margin-top: -70px;}
-    .class3-blackbordbox > img.phone4- {width: 41%; float: right; margin-top: -415px; margin-right: -75px; }
+    .class3-blackbordbox > img.phone4- {width: 41%; float: right; margin-top: -418px; margin-right: -62px; }
     img.heart2 {float: right; margin-top: -213px; width: 23%; height: 420px; transform: scale(0.81); }
     .class3centerbox > img.exam6- { margin-left: -291px; margin-top:8px; width: 41%; transform:scale(0.89);}
 
