@@ -110,7 +110,7 @@
     .class3-btnbox > .go-btn > a:hover {color: #f7b20d;}
     .phone4box {float: right; width: 95%; height: 12px; margin-left: 17px; animation-duration: 6s; animation-name: ring; animation-iteration-count: infinite; display: flex; justify-content: end; margin-top: -70px;}
     .class3-blackbordbox > img.phone4- {width: 39%; float: right; margin-top: -418px; margin-right: -56px; }
-    img.heart2 {float: right; margin-top: -174px; width: 23%; height: 266px; transform: scale(0.81); margin-right: -10px; }
+    img.heart2 {float: right; margin-top: -165px; width: 21%; height: 218px; transform: scale(0.81); margin-right: -11px; }
     .class3centerbox > img.exam6- { margin-left: -160px; margin-top:8px; width: 38%; transform:scale(0.89);}
 
     #page4 {width: 100%; height: 426px; background: url(../img/4page-background3.jpg) no-repeat; margin-top: -55px;}
@@ -145,11 +145,11 @@
 
 
     #page6 {width: 100%; height: 998px; background: url(../img/6page-m.jpg);}
-    .lovebox {width: 100%; height: 500px; }
-    .love-centerbox {width: 100%; height: 635px; margin: 0 auto;}
-    .love1box {width: 238%; height: 850px; margin-left: -63%; background: url(../img/love2.png) no-repeat; transform:scale(0.361); -webkit-transform-origin-y: top;}
-    .love3box {width: 113%; height: 850px;  background: url(../img/love3-1.png) no-repeat; margin-left: -147px;}
-    .right-applebox {width: 114%; height: 470px; background: url(../img/apple1-2.png) no-repeat; float: right; transform: scale(0.5); margin-top: -391px; margin-right: -138px;}
+    .lovebox {width: 100%; height: 483px; }
+    .love-centerbox {width: 100%; height: 612px; margin: 0 auto;}
+    .love1box {width: 199%; height: 134%; margin-left: -50%; background: url(../img/love2.png) no-repeat; transform:scale(0.361); -webkit-transform-origin-y: top;}
+    .love3box {width: 133%; height: 850px;  background: url(../img/love3-1.png) no-repeat; margin-left: -12%;}
+    .right-applebox {width: 84%; height: 465px; background: url(../img/apple1-2.png) no-repeat; float: right; transform: scale(0.5); margin-top: -391px; margin-right: -21%;}
     .lovebox > img {float: right;}
     .class6box {width: 100%; height: 390px; }
     .class6centerbox {width: 100%; height: 433px; margin: 0 auto;}
