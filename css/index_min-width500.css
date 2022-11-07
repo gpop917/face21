@@ -116,15 +116,15 @@
     #page4 {width: 100%; height: 426px; background: url(../img/4page-background3.jpg) no-repeat; margin-top: -55px;}
     .class4box {width: 100%; height: 290px; margin-top: 46px;}
     .class4centerbox {width: 100%; height: 326px; margin: 0 auto;}
-    .class4-blackbordbox {width: 342%; height: 1485px; background: url(../img/class4box1-2.png) center/cover no-repeat; transform: scale(0.258); margin-left: -121px; -webkit-transform-origin-y: top;}
-    .class4-btnbox {width: 5%; height: 317px; float: left; margin-left: 57%; margin-top: 327px;}
-    .class4-btnbox > .go-btn {width: 60px; height: 60px; background-color: #8dcb07; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 28px;}
+    .class4-blackbordbox {width: 622px; height: 478px; background: url(../img/class4box1-2.png) center/cover no-repeat; transform: scale(0.758); margin-left: -107px; -webkit-transform-origin-y: top;}
+    .class4-btnbox {width: 5%; height: 317px; float: left; margin-left: 57%; margin-top: 61px;}
+    .class4-btnbox > .go-btn {width: 60px; height: 60px; background-color: #8dcb07; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 19px;}
     .class4-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #8dcb07;  border-radius: 30px;}
     .class4-btnbox > .go-btn > a { color: #fff; font-size: 30px; text-align: center; }
     .class4-btnbox > .go-btn > a:hover {color: #8dcb07;}
     .mebox3 {width: 37%; height: 100px; animation-duration: 9s; animation-name: ring; animation-iteration-count: infinite; position: absolute;}
     .mebox3 > img.me3- {width: 100%; margin-top: 20px; margin-left: -31px; }
-    img.phone5- {width: 28%; margin-right: 15px; margin-top: -432px; float: right; }
+    img.phone5- {width: 28%; margin-right: 15px; float: right; }
 
 
     #page5 {width: 100%; height: 470px; background: url(../img/5page-background3m.jpg) no-repeat;}
@@ -134,7 +134,7 @@
     .class5-blackbordbox {width: 100%; height: 283px; background-color: #fff; border: 8px solid #00d0d8; }
     /* 좌측 하트 물풍선 */
     .class5-blackbordbox > .blueheart1 {width: 21%; height: 30%; float: left; margin-left: -53px; margin-top: -354px;}
-    .class5-btnbox {width: 80px; height:45%; float: left; margin-left: 560px; margin-top: 112px;}
+    .class5-btnbox {width: 80px; height:45%; float: left; margin-left: 560px; margin-top: 274px;}
     /* 안에 글씨 */
     .class5-textbox {width: 251%; height: 208%; background: url(../img/class5box1.png) no-repeat; transform:scale(0.384); -webkit-transform-origin-y: top; margin-left: -284px;}
     .class5-btnbox > .go-btn {width: 60px; height: 60px; background-color: #00d0d8; border-radius: 50px; text-align: center; padding-top: 8px; margin-bottom: 18px;}
@@ -159,7 +159,7 @@
     .class6-btnbox > .go-btn:hover {background-color: #fff; border: 1px solid #281762;  border-radius: 30px;}
     .class6-btnbox > .go-btn > a { color: #fff; font-size: 30px; text-align: center; }
     .class6-btnbox > .go-btn > a:hover {color: #281762;}
-    .right-mombox {width: 45%; height: 480px; background: url(../img/mom1-2.png) no-repeat; float: right; margin-top: -481px; margin-right: -37px; transform: scale(0.79);}
+    .right-mombox {width: 74%; height: 480px; background: url(../img/mom1-2.png) no-repeat; float: right; margin-top: -694px; margin-right: -22px; transform: scale(0.419);}
 
     footer {width: 100%; height: 84px; background-color: #281762;}
     .p2box { width: 100%; display: flex; justify-content: space-around; position: absolute; padding-top: 19px; text-align: center;}
